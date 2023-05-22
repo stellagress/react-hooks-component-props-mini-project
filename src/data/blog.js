@@ -12,7 +12,7 @@ const blogData = {
       preview: "Setting up the building blocks of your site",
       minutes: 5,
     },
-    {
+    { 
       id: 2,
       title: "React Data Flow",
       date: "December 11, 2020",
